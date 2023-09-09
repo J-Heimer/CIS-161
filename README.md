@@ -1,3 +1,3 @@
 # CIS-161
 This Repository is intended only
-only to be used for DMACC class CIS-161
+to be used for DMACC class CIS-161
